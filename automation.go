@@ -3,12 +3,13 @@ package monday
 import (
 	"errors"
 	"fmt"
-	"gopkg.in/fatih/set.v0"
 	"regexp"
 	"strconv"
 	"strings"
 	"text/scanner"
 	"time"
+
+	"gopkg.in/fatih/set.v0"
 )
 
 var (

@@ -32,9 +32,9 @@ var longMonthNamesCsCZParadox = map[string]string{
 	"May":       "kvete",
 	"June":      "cerve",
 	"July":      "cenec",
-	"August":    "srp",
-	"September": "zar",
-	"October":   "rije",
+	"August":    "srpen",
+	"September": "zari",
+	"October":   "rijen",
 	"November":  "listo",
 	"December":  "pros",
 }
